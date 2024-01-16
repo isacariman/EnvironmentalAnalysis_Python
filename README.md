@@ -2,8 +2,8 @@
 
 *queimadas_BR_2019_2023.ipynb* <br />
 Mapa de calor do número, acumulado, de focos de incêndio no Brasil de 2019 a 2023. <br />
-Fonte dos dados: INPE, Terrabrasilis - http://terrabrasilis.dpi.inpe.br/app/dashboard/fires/biomes/aggregated/#
-Fote modelo gráfico: https://www.kaggle.com/code/macchi57/processamento-de-dados-georreferenciados
+Fonte dos dados: INPE, Terrabrasilis - http://terrabrasilis.dpi.inpe.br/app/dashboard/fires/biomes/aggregated/# <br />
+Fote modelo gráfico: https://www.kaggle.com/code/macchi57/processamento-de-dados-georreferenciados <br />
 <br />
 *EmissonsCO2.ipynb* <br />
 Analise espacial da emissão de CO2 per capta.<br />
